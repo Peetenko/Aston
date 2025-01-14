@@ -1,6 +1,5 @@
-<!-- eslint-disable vue/valid-v-for -->
 <script setup lang="ts">
-import { reactive, ref } from 'vue'
+import { reactive } from 'vue'
 import { createState, State } from './state'
 import { fields } from './fields'
 
